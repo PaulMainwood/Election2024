@@ -1,36 +1,36 @@
 Date,Model,Candidate,Probability
-20/08/2024,The Hill/DD HQ,Harris,0.53
-21/08/2024,The Hill/DD HQ,Harris,0.53
-22/08/2024,The Hill/DD HQ,Harris,0.53
-23/08/2024,The Hill/DD HQ,Harris,0.54
-24/08/2024,The Hill/DD HQ,Harris,0.54
-25/08/2024,The Hill/DD HQ,Harris,0.54
-26/08/2024,The Hill/DD HQ,Harris,0.55
-27/08/2024,The Hill/DD HQ,Harris,0.56
-28/08/2024,The Hill/DD HQ,Harris,0.56
-29/08/2024,The Hill/DD HQ,Harris,0.57
-30/08/2024,The Hill/DD HQ,Harris,0.56
-31/08/2024,The Hill/DD HQ,Harris,0.56
-01/09/2024,The Hill/DD HQ,Harris,0.56
-02/09/2024,The Hill/DD HQ,Harris,0.56
-03/09/2024,The Hill/DD HQ,Harris,0.56
-04/09/2024,The Hill/DD HQ,Harris,0.56
-20/08/2024,The Hill/DD HQ,Trump,0.47
-21/08/2024,The Hill/DD HQ,Trump,0.47
-22/08/2024,The Hill/DD HQ,Trump,0.47
-23/08/2024,The Hill/DD HQ,Trump,0.46
-24/08/2024,The Hill/DD HQ,Trump,0.46
-25/08/2024,The Hill/DD HQ,Trump,0.46
-26/08/2024,The Hill/DD HQ,Trump,0.45
-27/08/2024,The Hill/DD HQ,Trump,0.44
-28/08/2024,The Hill/DD HQ,Trump,0.44
-29/08/2024,The Hill/DD HQ,Trump,0.43
-30/08/2024,The Hill/DD HQ,Trump,0.44
-31/08/2024,The Hill/DD HQ,Trump,0.44
-01/09/2024,The Hill/DD HQ,Trump,0.44
-02/09/2024,The Hill/DD HQ,Trump,0.44
-03/09/2024,The Hill/DD HQ,Trump,0.44
-04/09/2024,The Hill/DD HQ,Trump,0.44
+20/08/2024,Decision Desk HQ,Harris,0.53
+21/08/2024,Decision Desk HQ,Harris,0.53
+22/08/2024,Decision Desk HQ,Harris,0.53
+23/08/2024,Decision Desk HQ,Harris,0.54
+24/08/2024,Decision Desk HQ,Harris,0.54
+25/08/2024,Decision Desk HQ,Harris,0.54
+26/08/2024,Decision Desk HQ,Harris,0.55
+27/08/2024,Decision Desk HQ,Harris,0.56
+28/08/2024,Decision Desk HQ,Harris,0.56
+29/08/2024,Decision Desk HQ,Harris,0.57
+30/08/2024,Decision Desk HQ,Harris,0.56
+31/08/2024,Decision Desk HQ,Harris,0.56
+01/09/2024,Decision Desk HQ,Harris,0.56
+02/09/2024,Decision Desk HQ,Harris,0.56
+03/09/2024,Decision Desk HQ,Harris,0.56
+04/09/2024,Decision Desk HQ,Harris,0.56
+20/08/2024,Decision Desk HQ,Trump,0.47
+21/08/2024,Decision Desk HQ,Trump,0.47
+22/08/2024,Decision Desk HQ,Trump,0.47
+23/08/2024,Decision Desk HQ,Trump,0.46
+24/08/2024,Decision Desk HQ,Trump,0.46
+25/08/2024,Decision Desk HQ,Trump,0.46
+26/08/2024,Decision Desk HQ,Trump,0.45
+27/08/2024,Decision Desk HQ,Trump,0.44
+28/08/2024,Decision Desk HQ,Trump,0.44
+29/08/2024,Decision Desk HQ,Trump,0.43
+30/08/2024,Decision Desk HQ,Trump,0.44
+31/08/2024,Decision Desk HQ,Trump,0.44
+01/09/2024,Decision Desk HQ,Trump,0.44
+02/09/2024,Decision Desk HQ,Trump,0.44
+03/09/2024,Decision Desk HQ,Trump,0.44
+04/09/2024,Decision Desk HQ,Trump,0.44
 01/08/2024,TheEconomist,Harris,0.43
 02/08/2024,TheEconomist,Harris,0.45
 03/08/2024,TheEconomist,Harris,0.45
@@ -66,6 +66,7 @@ Date,Model,Candidate,Probability
 02/09/2024,TheEconomist,Harris,0.52
 03/09/2024,TheEconomist,Harris,0.54
 04/09/2024,TheEconomist,Harris,0.53
+05/09/2024,TheEconomist,Harris,0.52
 01/08/2024,TheEconomist,Trump,0.57
 02/08/2024,TheEconomist,Trump,0.55
 03/08/2024,TheEconomist,Trump,0.55
@@ -101,6 +102,7 @@ Date,Model,Candidate,Probability
 02/09/2024,TheEconomist,Trump,0.47
 03/09/2024,TheEconomist,Trump,0.46
 04/09/2024,TheEconomist,Trump,0.46
+05/09/2024,TheEconomist,Trump,0.46
 01/08/2024,Betting,Harris,0.45
 02/08/2024,Betting,Harris,0.453
 03/08/2024,Betting,Harris,0.456
@@ -136,6 +138,7 @@ Date,Model,Candidate,Probability
 02/09/2024,Betting,Harris,0.494
 03/09/2024,Betting,Harris,0.493
 04/09/2024,Betting,Harris,0.493
+05/09/2024,Betting,Harris,0.49
 01/08/2024,Betting,Trump,0.511
 02/08/2024,Betting,Trump,0.513
 03/08/2024,Betting,Trump,0.518
@@ -171,6 +174,7 @@ Date,Model,Candidate,Probability
 02/09/2024,Betting,Trump,0.494
 03/09/2024,Betting,Trump,0.495
 04/09/2024,Betting,Trump,0.493
+05/09/2024,Betting,Trump,0.497
 29/07/2024,SilverBulletin,Harris,0.371724993
 30/07/2024,SilverBulletin,Harris,0.381375015
 31/07/2024,SilverBulletin,Harris,0.425325006
@@ -237,11 +241,11 @@ Date,Model,Candidate,Probability
 23/08/2024,SilverBulletin,Trump,0.460999995
 24/08/2024,SilverBulletin,Trump,0.465700001
 25/08/2024,SilverBulletin,Trump,0.473174989
-26/08/2024,SilverBulletin,Trump,0.47220
-27/08/2024,SilverBulletin,Trump,0.48270
-28/08/2024,SilverBulletin,Trump,0.49170
-29/08/2024,SilverBulletin,Trump,0.52380
-30/08/2024,SilverBulletin,Trump,0.53100
+26/08/2024,SilverBulletin,Trump,0.4722
+27/08/2024,SilverBulletin,Trump,0.4827
+28/08/2024,SilverBulletin,Trump,0.4917
+29/08/2024,SilverBulletin,Trump,0.5238
+30/08/2024,SilverBulletin,Trump,0.531
 31/08/2024,SilverBulletin,Trump,0.55112
 01/09/2024,SilverBulletin,Trump,0.55755
 02/09/2024,SilverBulletin,Trump,0.56327

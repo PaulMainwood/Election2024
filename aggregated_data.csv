@@ -165,7 +165,8 @@ Date,Model,Candidate,Probability
 2024-09-07,Betting,Harris,0.487
 2024-09-08,Betting,Harris,0.47
 2024-09-09,Betting,Harris,0.468
-2024-09-10,Betting,Harris,0.467
+2024-09-10,Betting,Harris,0.499
+2024-09-11,Betting,Harris,0.518
 2024-08-01,Betting,Trump,0.511
 2024-08-02,Betting,Trump,0.513
 2024-08-03,Betting,Trump,0.518
@@ -206,7 +207,8 @@ Date,Model,Candidate,Probability
 2024-09-07,Betting,Trump,0.498
 2024-09-08,Betting,Trump,0.515
 2024-09-09,Betting,Trump,0.517
-2024-09-10,Betting,Trump,0.517
+2024-09-10,Betting,Trump,0.485
+2024-09-11,Betting,Trump,0.469
 2024-07-29,SilverBulletin,Harris,0.371724993
 2024-07-30,SilverBulletin,Harris,0.381375015
 2024-07-31,SilverBulletin,Harris,0.425325006
@@ -809,3 +811,5 @@ Date,Model,Candidate,Probability
 2024-09-09,PEC,Trump,0.565533215552701
 2024-09-10,PEC,Harris,0.45898210913160964
 2024-09-10,PEC,Trump,0.5410178908683904
+2024-09-11,PEC,Harris,0.45417123892165834
+2024-09-11,PEC,Trump,0.5458287610783417

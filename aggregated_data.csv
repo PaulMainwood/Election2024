@@ -21,6 +21,7 @@ Date,Model,Candidate,Probability
 2024-09-08,Decision Desk HQ,Harris,0.55
 2024-09-09,Decision Desk HQ,Harris,0.54
 2024-09-10,Decision Desk HQ,Harris,0.55
+2024-09-11,Decision Desk HQ,Harris,0.54
 2024-08-20,Decision Desk HQ,Trump,0.47
 2024-08-21,Decision Desk HQ,Trump,0.47
 2024-08-22,Decision Desk HQ,Trump,0.47
@@ -43,6 +44,7 @@ Date,Model,Candidate,Probability
 2024-09-08,Decision Desk HQ,Trump,0.45
 2024-09-09,Decision Desk HQ,Trump,0.46
 2024-09-10,Decision Desk HQ,Trump,0.45
+2024-09-11,Decision Desk HQ,Trump,0.46
 2024-08-01,TheEconomist,Harris,0.43
 2024-08-02,TheEconomist,Harris,0.45
 2024-08-03,TheEconomist,Harris,0.45
@@ -168,7 +170,7 @@ Date,Model,Candidate,Probability
 2024-09-08,Betting,Harris,0.47
 2024-09-09,Betting,Harris,0.468
 2024-09-10,Betting,Harris,0.499
-2024-09-11,Betting,Harris,0.518
+2024-09-11,Betting,Harris,0.515
 2024-08-01,Betting,Trump,0.511
 2024-08-02,Betting,Trump,0.513
 2024-08-03,Betting,Trump,0.518
@@ -210,7 +212,7 @@ Date,Model,Candidate,Probability
 2024-09-08,Betting,Trump,0.515
 2024-09-09,Betting,Trump,0.517
 2024-09-10,Betting,Trump,0.485
-2024-09-11,Betting,Trump,0.469
+2024-09-11,Betting,Trump,0.47
 2024-07-29,SilverBulletin,Harris,0.371724993
 2024-07-30,SilverBulletin,Harris,0.381375015
 2024-07-31,SilverBulletin,Harris,0.425325006
@@ -391,8 +393,10 @@ Date,Model,Candidate,Probability
 2024-09-08,FiveThirtyEight,Trump,0.4668
 2024-09-09,FiveThirtyEight,Harris,0.5504
 2024-09-09,FiveThirtyEight,Trump,0.4496
-2024-09-10,FiveThirtyEight,Harris,0.5584
-2024-09-10,FiveThirtyEight,Trump,0.4416
+2024-09-10,FiveThirtyEight,Harris,0.5457
+2024-09-10,FiveThirtyEight,Trump,0.45430000000000004
+2024-09-11,FiveThirtyEight,Harris,0.5503
+2024-09-11,FiveThirtyEight,Trump,0.4497
 2024-05-01,DataDiary,Harris,0.21599999999999925
 2024-05-01,DataDiary,Trump,0.7840000000000007
 2024-05-02,DataDiary,Harris,0.21639999999999987
@@ -657,8 +661,10 @@ Date,Model,Candidate,Probability
 2024-09-08,DataDiary,Trump,0.5333000000000001
 2024-09-09,DataDiary,Harris,0.4437000000000002
 2024-09-09,DataDiary,Trump,0.5562999999999998
-2024-09-10,DataDiary,Harris,0.45610000000000045
-2024-09-10,DataDiary,Trump,0.5438999999999996
+2024-09-10,DataDiary,Harris,0.4561000000000005
+2024-09-10,DataDiary,Trump,0.5438999999999995
+2024-09-11,DataDiary,Harris,0.4593000000000008
+2024-09-11,DataDiary,Trump,0.5406999999999992
 2024-05-31,PEC,Harris,0.015439330589880784
 2024-05-31,PEC,Trump,0.9845606694101192
 2024-06-04,PEC,Harris,0.02378935794919923

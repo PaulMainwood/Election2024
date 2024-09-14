@@ -1,58 +1,58 @@
-FiveThirtyEight,Silver
-AK,Alaska
-AL,Alabama
-AR,Arkansas
-AZ,Arizona
-CA,California
-CO,Colorado
-CT,Connecticut
-DC,District of Columbia
-DE,Delaware
-FL,Florida
-GA,Georgia
-HI,Hawaii
-IA,Iowa
-ID,Idaho
-IL,Illinois
-IN,Indiana
-KS,Kansas
-KY,Kentucky
-LA,Louisiana
-MA,Massachusetts
-MD,Maryland
-ME,Maine
-ME-01,ME-1
-ME-02,ME-2
-MI,Michigan
-MN,Minnesota
-MO,Missouri
-MS,Mississippi
-MT,Montana
-NA,National
-NC,North Carolina
-ND,North Dakota
-NE,Nebraska
-NE-01,NE-1
-NE-02,NE-2
-NE-03,NE-3
-NH,New Hampshire
-NJ,New Jersey
-NM,New Mexico
-NV,Nevada
-NY,New York
-OH,Ohio
-OK,Oklahoma
-OR,Oregon
-PA,Pennsylvania
-RI,Rhode Island
-SC,South Carolina
-SD,South Dakota
-TN,Tennessee
-TX,Texas
-UT,Utah
-VA,Virginia
-VT,Vermont
-WA,Washington
-WI,Wisconsin
-WV,West Virginia
-WY,Wyoming
+FiveThirtyEight,Silver,DataDiary,PEC
+AL,Alabama,Alabama,AL
+AK,Alaska,Alaska,AK
+AZ,Arizona,Arizona,AZ
+AR,Arkansas,Arkansas,AR
+CA,California,California,CA
+CO,Colorado,Colorado,CO
+CT,Connecticut,Connecticut,CT
+DE,Delaware,Delaware,DC
+DC,District of Columbia,District of Columbia,DE
+FL,Florida,Florida,FL
+GA,Georgia,Georgia,GA
+HI,Hawaii,Hawaii,HI
+ID,Idaho,Idaho,ID
+IL,Illinois,Illinois,IL
+IN,Indiana,Indiana,IN
+IA,Iowa,Iowa,IA
+KS,Kansas,Kansas,KS
+KY,Kentucky,Kentucky,KY
+LA,Louisiana,Louisiana,LA
+ME,Maine,Maine,ME
+MD,Maryland,Maryland,MD
+MA,Massachusetts,Massachusetts,MA
+ME-01,ME-1,Maine CD-1,M1
+ME-02,ME-2,Maine CD-2,M2
+MI,Michigan,Michigan,MI
+MN,Minnesota,Minnesota,MN
+MS,Mississippi,Mississippi,MS
+MO,Missouri,Missouri,MO
+MT,Montana,Montana,MT
+NA,National,National,NA
+NE-01,NE-1,Nebraska CD-1,N1
+NE-02,NE-2,Nebraska CD-2,N2
+NE-03,NE-3,Nebraska CD-3,N3
+NE,Nebraska,Nebraska,NE
+NV,Nevada,Nevada,NV
+NH,New Hampshire,New Hampshire,NH
+NJ,New Jersey,New Jersey,NJ
+NM,New Mexico,New Mexico,NM
+NY,New York,New York,NY
+NC,North Carolina,North Carolina,NC
+ND,North Dakota,North Dakota,ND
+OH,Ohio,Ohio,OH
+OK,Oklahoma,Oklahoma,OK
+OR,Oregon,Oregon,OR
+PA,Pennsylvania,Pennsylvania,PA
+RI,Rhode Island,Rhode Island,RI
+SC,South Carolina,South Carolina,SC
+SD,South Dakota,South Dakota,SD
+TN,Tennessee,Tennessee,TN
+TX,Texas,Texas,TX
+UT,Utah,Utah,UT
+VT,Vermont,Vermont,VT
+VA,Virginia,Virginia,VA
+WA,Washington,Washington,WA
+WV,West Virginia,West Virginia,WV
+WI,Wisconsin,Wisconsin,WI
+WY,Wyoming,Wyoming,WY

@@ -102,6 +102,7 @@ Date,Model,Candidate,Probability
 2024-09-14,TheEconomist,Harris,0.53
 2024-09-15,TheEconomist,Harris,0.53
 2024-09-16,TheEconomist,Harris,0.52
+2024-09-17,TheEconomist,Harris,0.56
 2024-08-01,TheEconomist,Trump,0.57
 2024-08-02,TheEconomist,Trump,0.55
 2024-08-03,TheEconomist,Trump,0.55
@@ -149,6 +150,7 @@ Date,Model,Candidate,Probability
 2024-09-14,TheEconomist,Trump,0.47
 2024-09-15,TheEconomist,Trump,0.47
 2024-09-16,TheEconomist,Trump,0.47
+2024-09-17,TheEconomist,Trump,0.44
 2024-08-01,Betting,Harris,0.45
 2024-08-02,Betting,Harris,0.453
 2024-08-03,Betting,Harris,0.456
@@ -292,6 +294,7 @@ Date,Model,Candidate,Probability
 2024-09-13,SilverBulletin,Harris,0.386599988
 2024-09-14,SilverBulletin,Harris,0.39655
 2024-09-15,SilverBulletin,Harris,0.400875002
+2024-09-16,SilverBulletin,Harris,0.399825007
 2024-07-29,SilverBulletin,Trump,0.622574985
 2024-07-30,SilverBulletin,Trump,0.613449991
 2024-07-31,SilverBulletin,Trump,0.569050014
@@ -341,6 +344,7 @@ Date,Model,Candidate,Probability
 2024-09-13,SilverBulletin,Trump,0.610125005
 2024-09-14,SilverBulletin,Trump,0.600525022
 2024-09-15,SilverBulletin,Trump,0.596475005
+2024-09-16,SilverBulletin,Trump,0.596825004
 2024-07-26,FiveThirtyEight,Harris,0.4676
 2024-07-26,FiveThirtyEight,Trump,0.5324
 2024-07-27,FiveThirtyEight,Harris,0.4643
@@ -445,8 +449,8 @@ Date,Model,Candidate,Probability
 2024-09-14,FiveThirtyEight,Trump,0.4181
 2024-09-15,FiveThirtyEight,Harris,0.5954
 2024-09-15,FiveThirtyEight,Trump,0.40459999999999996
-2024-09-16,FiveThirtyEight,Harris,0.5952
-2024-09-16,FiveThirtyEight,Trump,0.40480000000000005
+2024-09-16,FiveThirtyEight,Harris,0.61
+2024-09-16,FiveThirtyEight,Trump,0.39
 2024-05-01,DataDiary,Harris,0.21599999999999925
 2024-05-01,DataDiary,Trump,0.7840000000000007
 2024-05-02,DataDiary,Harris,0.21639999999999987
@@ -891,3 +895,5 @@ Date,Model,Candidate,Probability
 2024-09-15,PEC,Trump,0.5358005236484277
 2024-09-16,PEC,Harris,0.47437193734134486
 2024-09-16,PEC,Trump,0.5256280626586551
+2024-09-17,PEC,Harris,0.47745638282717384
+2024-09-17,PEC,Trump,0.5225436171728262

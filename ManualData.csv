@@ -27,6 +27,7 @@ Date,Model,Candidate,Probability
 14/09/2024,Decision Desk HQ,Harris,0.54
 15/09/2024,Decision Desk HQ,Harris,0.55
 16/09/2024,Decision Desk HQ,Harris,0.55
+17/09/2024,Decision Desk HQ,Harris,0.54
 20/08/2024,Decision Desk HQ,Trump,0.47
 21/08/2024,Decision Desk HQ,Trump,0.47
 22/08/2024,Decision Desk HQ,Trump,0.47
@@ -55,7 +56,8 @@ Date,Model,Candidate,Probability
 14/09/2024,Decision Desk HQ,Trump,0.46
 15/09/2024,Decision Desk HQ,Trump,0.45
 16/09/2024,Decision Desk HQ,Trump,0.45
-01/08/2024,TheEconomist,Harris,0.43
+17/09/2024,Decision Desk HQ,Trump,0.45
+01/08/2024,TheEconomist,Harris,0.46
 02/08/2024,TheEconomist,Harris,0.45
 03/08/2024,TheEconomist,Harris,0.45
 04/08/2024,TheEconomist,Harris,0.47

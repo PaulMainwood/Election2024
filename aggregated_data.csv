@@ -105,6 +105,7 @@ Date,Model,Candidate,Probability
 2024-09-15,TheEconomist,Harris,0.53
 2024-09-16,TheEconomist,Harris,0.52
 2024-09-17,TheEconomist,Harris,0.56
+2024-09-18,TheEconomist,Harris,0.57
 2024-08-01,TheEconomist,Trump,0.57
 2024-08-02,TheEconomist,Trump,0.55
 2024-08-03,TheEconomist,Trump,0.55
@@ -153,6 +154,7 @@ Date,Model,Candidate,Probability
 2024-09-15,TheEconomist,Trump,0.47
 2024-09-16,TheEconomist,Trump,0.47
 2024-09-17,TheEconomist,Trump,0.44
+2024-09-18,TheEconomist,Trump,0.43
 2024-08-01,Betting,Harris,0.45
 2024-08-02,Betting,Harris,0.453
 2024-08-03,Betting,Harris,0.456

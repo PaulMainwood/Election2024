@@ -126,6 +126,7 @@ Date,Model,Candidate,Probability
 22/09/2024,TheEconomist,Harris,0.57
 23/09/2024,TheEconomist,Harris,0.57
 24/09/2024,TheEconomist,Harris,0.53
+25/09/2024,TheEconomist,Harris,0.55
 01/08/2024,TheEconomist,Trump,0.57
 02/08/2024,TheEconomist,Trump,0.55
 03/08/2024,TheEconomist,Trump,0.55
@@ -181,6 +182,7 @@ Date,Model,Candidate,Probability
 22/09/2024,TheEconomist,Trump,0.42
 23/09/2024,TheEconomist,Trump,0.43
 24/09/2024,TheEconomist,Trump,0.46
+25/09/2024,TheEconomist,Trump,0.45
 01/08/2024,Betting,Harris,0.45
 02/08/2024,Betting,Harris,0.453
 03/08/2024,Betting,Harris,0.456
@@ -235,7 +237,7 @@ Date,Model,Candidate,Probability
 21/09/2024,Betting,Harris,0.523
 22/09/2024,Betting,Harris,0.529
 23/09/2024,Betting,Harris,0.531
-24/09/2024,Betting,Harris,0.524
+24/09/2024,Betting,Harris,0.521
 01/08/2024,Betting,Trump,0.51
 02/08/2024,Betting,Trump,0.513
 03/08/2024,Betting,Trump,0.518
@@ -290,7 +292,7 @@ Date,Model,Candidate,Probability
 21/09/2024,Betting,Trump,0.461
 22/09/2024,Betting,Trump,0.456
 23/09/2024,Betting,Trump,0.454
-24/09/2024,Betting,Trump,0.463
+24/09/2024,Betting,Trump,0.464
 29/07/2024,SilverBulletin,Harris,0.371724993
 30/07/2024,SilverBulletin,Harris,0.381375015
 31/07/2024,SilverBulletin,Harris,0.425325006

@@ -36,7 +36,7 @@ Date,Model,Candidate,Probability
 23/09/2024,Decision Desk HQ,Harris,0.55
 24/09/2024,Decision Desk HQ,Harris,0.54
 25/09/2024,Decision Desk HQ,Harris,0.55
-26/09/2024,Decision Desk HQ,Harris,0.55
+26/09/2024,Decision Desk HQ,Harris,0.56
 20/08/2024,Decision Desk HQ,Trump,0.47
 21/08/2024,Decision Desk HQ,Trump,0.47
 22/08/2024,Decision Desk HQ,Trump,0.47
@@ -74,7 +74,7 @@ Date,Model,Candidate,Probability
 23/09/2024,Decision Desk HQ,Trump,0.45
 24/09/2024,Decision Desk HQ,Trump,0.46
 25/09/2024,Decision Desk HQ,Trump,0.45
-26/09/2024,Decision Desk HQ,Trump,0.45
+26/09/2024,Decision Desk HQ,Trump,0.44
 01/08/2024,TheEconomist,Harris,0.43
 02/08/2024,TheEconomist,Harris,0.45
 03/08/2024,TheEconomist,Harris,0.45
@@ -247,7 +247,8 @@ Date,Model,Candidate,Probability
 23/09/2024,Betting,Harris,0.531
 24/09/2024,Betting,Harris,0.521
 25/09/2024,Betting,Harris,0.509
-26/09/2024,Betting,Harris,0.507
+26/09/2024,Betting,Harris,0.504
+27/09/2024,Betting,Harris,0.507
 01/08/2024,Betting,Trump,0.51
 02/08/2024,Betting,Trump,0.513
 03/08/2024,Betting,Trump,0.518
@@ -304,7 +305,8 @@ Date,Model,Candidate,Probability
 23/09/2024,Betting,Trump,0.454
 24/09/2024,Betting,Trump,0.464
 25/09/2024,Betting,Trump,0.474
-26/09/2024,Betting,Trump,0.476
+26/09/2024,Betting,Trump,0.481
+27/09/2024,Betting,Trump,0.477
 29/07/2024,SilverBulletin,Harris,0.371724993
 30/07/2024,SilverBulletin,Harris,0.381375015
 31/07/2024,SilverBulletin,Harris,0.425325006
@@ -365,6 +367,7 @@ Date,Model,Candidate,Probability
 24/09/2024,SilverBulletin,Harris,0.54095
 25/09/2024,SilverBulletin,Harris,0.551800013
 26/09/2024,SilverBulletin,Harris,0.551225007
+27/09/2024,SilverBulletin,Harris,0.580924988
 29/07/2024,SilverBulletin,Trump,0.622574985
 30/07/2024,SilverBulletin,Trump,0.613449991
 31/07/2024,SilverBulletin,Trump,0.569050014
@@ -425,3 +428,4 @@ Date,Model,Candidate,Probability
 24/09/2024,SilverBulletin,Trump,0.456999987
 25/09/2024,SilverBulletin,Trump,0.44600001
 26/09/2024,SilverBulletin,Trump,0.446424991
+27/09/2024,SilverBulletin,Trump,0.417075008

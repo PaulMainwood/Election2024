@@ -165,6 +165,7 @@ Date,Model,Candidate,Probability
 2024-10-05,TheEconomist,Harris,0.53
 2024-10-06,TheEconomist,Harris,0.53
 2024-10-07,TheEconomist,Harris,0.53
+2024-10-08,TheEconomist,Harris,0.53
 2024-08-01,TheEconomist,Trump,0.57
 2024-08-02,TheEconomist,Trump,0.55
 2024-08-03,TheEconomist,Trump,0.55
@@ -233,6 +234,7 @@ Date,Model,Candidate,Probability
 2024-10-05,TheEconomist,Trump,0.47
 2024-10-06,TheEconomist,Trump,0.47
 2024-10-07,TheEconomist,Trump,0.47
+2024-10-08,TheEconomist,Trump,0.47
 2024-08-01,Betting,Harris,0.45
 2024-08-02,Betting,Harris,0.453
 2024-08-03,Betting,Harris,0.456
@@ -657,8 +659,8 @@ Date,Model,Candidate,Probability
 2024-10-05,FiveThirtyEight,Trump,0.4547
 2024-10-06,FiveThirtyEight,Harris,0.5477
 2024-10-06,FiveThirtyEight,Trump,0.45230000000000004
-2024-10-07,FiveThirtyEight,Harris,0.5455
-2024-10-07,FiveThirtyEight,Trump,0.4545
+2024-10-07,FiveThirtyEight,Harris,0.5541
+2024-10-07,FiveThirtyEight,Trump,0.44589999999999996
 2024-05-01,DataDiary,Harris,0.21599999999999925
 2024-05-01,DataDiary,Trump,0.7840000000000007
 2024-05-02,DataDiary,Harris,0.21639999999999987

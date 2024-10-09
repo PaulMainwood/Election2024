@@ -671,8 +671,10 @@ Date,Model,Candidate,Probability
 2024-10-06,FiveThirtyEight,Trump,0.45230000000000004
 2024-10-07,FiveThirtyEight,Harris,0.553
 2024-10-07,FiveThirtyEight,Trump,0.44699999999999995
-2024-10-08,FiveThirtyEight,Harris,0.5464
-2024-10-08,FiveThirtyEight,Trump,0.4536
+2024-10-08,FiveThirtyEight,Harris,0.5343
+2024-10-08,FiveThirtyEight,Trump,0.4657
+2024-10-09,FiveThirtyEight,Harris,0.5339
+2024-10-09,FiveThirtyEight,Trump,0.46609999999999996
 2024-05-01,DataDiary,Harris,0.21599999999999925
 2024-05-01,DataDiary,Trump,0.7840000000000007
 2024-05-02,DataDiary,Harris,0.21639999999999987

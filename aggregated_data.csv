@@ -55,6 +55,8 @@ Date,Model,Candidate,Probability
 2024-10-12,Decision Desk HQ,Harris,0.51
 2024-10-13,Decision Desk HQ,Harris,0.51
 2024-10-14,Decision Desk HQ,Harris,0.51
+2024-10-15,Decision Desk HQ,Harris,0.51
+2024-10-16,Decision Desk HQ,Harris,0.5
 2024-08-20,Decision Desk HQ,Trump,0.47
 2024-08-21,Decision Desk HQ,Trump,0.47
 2024-08-22,Decision Desk HQ,Trump,0.47
@@ -111,6 +113,8 @@ Date,Model,Candidate,Probability
 2024-10-12,Decision Desk HQ,Trump,0.49
 2024-10-13,Decision Desk HQ,Trump,0.49
 2024-10-14,Decision Desk HQ,Trump,0.49
+2024-10-15,Decision Desk HQ,Trump,0.49
+2024-10-16,Decision Desk HQ,Trump,0.5
 2024-08-01,TheEconomist,Harris,0.43
 2024-08-02,TheEconomist,Harris,0.45
 2024-08-03,TheEconomist,Harris,0.45
@@ -340,7 +344,8 @@ Date,Model,Candidate,Probability
 2024-10-12,Betting,Harris,0.447
 2024-10-13,Betting,Harris,0.449
 2024-10-14,Betting,Harris,0.444
-2024-10-15,Betting,Harris,0.444
+2024-10-15,Betting,Harris,0.426
+2024-10-16,Betting,Harris,0.413
 2024-08-01,Betting,Trump,0.51
 2024-08-02,Betting,Trump,0.513
 2024-08-03,Betting,Trump,0.518
@@ -416,7 +421,8 @@ Date,Model,Candidate,Probability
 2024-10-12,Betting,Trump,0.539
 2024-10-13,Betting,Trump,0.544
 2024-10-14,Betting,Trump,0.547
-2024-10-15,Betting,Trump,0.547
+2024-10-15,Betting,Trump,0.563
+2024-10-16,Betting,Trump,0.577
 2024-07-29,SilverBulletin,Harris,0.371724993
 2024-07-30,SilverBulletin,Harris,0.381375015
 2024-07-31,SilverBulletin,Harris,0.425325006
@@ -496,6 +502,7 @@ Date,Model,Candidate,Probability
 2024-10-13,SilverBulletin,Harris,0.518
 2024-10-14,SilverBulletin,Harris,0.51
 2024-10-15,SilverBulletin,Harris,0.501
+2024-10-16,SilverBulletin,Harris,0.503
 2024-07-29,SilverBulletin,Trump,0.622574985
 2024-07-30,SilverBulletin,Trump,0.613449991
 2024-07-31,SilverBulletin,Trump,0.569050014
@@ -575,6 +582,7 @@ Date,Model,Candidate,Probability
 2024-10-13,SilverBulletin,Trump,0.479
 2024-10-14,SilverBulletin,Trump,0.487
 2024-10-15,SilverBulletin,Trump,0.497
+2024-10-16,SilverBulletin,Trump,0.494
 2024-07-26,FiveThirtyEight,Harris,0.4676
 2024-07-26,FiveThirtyEight,Trump,0.5324
 2024-07-27,FiveThirtyEight,Harris,0.4643

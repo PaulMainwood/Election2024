@@ -567,6 +567,8 @@ Date,Model,Candidate,Probability
 22/10/2024,SilverBulletin,Harris,0.466
 23/10/2024,SilverBulletin,Harris,0.469
 24/10/2024,SilverBulletin,Harris,0.46
+25/10/2024,SilverBulletin,Harris,0.463
+26/10/2024,SilverBulletin,Harris,0.463
 29/07/2024,SilverBulletin,Trump,0.622574985
 30/07/2024,SilverBulletin,Trump,0.613449991
 31/07/2024,SilverBulletin,Trump,0.569050014
@@ -655,3 +657,5 @@ Date,Model,Candidate,Probability
 22/10/2024,SilverBulletin,Trump,0.531
 23/10/2024,SilverBulletin,Trump,0.528
 24/10/2024,SilverBulletin,Trump,0.537
+25/10/2024,SilverBulletin,Trump,0.534
+26/10/2024,SilverBulletin,Trump,0.534

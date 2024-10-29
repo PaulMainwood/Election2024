@@ -68,6 +68,7 @@ Date,Model,Candidate,Probability
 2024-10-25,Decision Desk HQ,Harris,0.48
 2024-10-26,Decision Desk HQ,Harris,0.47
 2024-10-27,Decision Desk HQ,Harris,0.47
+2024-10-28,Decision Desk HQ,Harris,0.46
 2024-08-20,Decision Desk HQ,Trump,0.47
 2024-08-21,Decision Desk HQ,Trump,0.47
 2024-08-22,Decision Desk HQ,Trump,0.47
@@ -137,6 +138,7 @@ Date,Model,Candidate,Probability
 2024-10-25,Decision Desk HQ,Trump,0.52
 2024-10-26,Decision Desk HQ,Trump,0.53
 2024-10-27,Decision Desk HQ,Trump,0.53
+2024-10-28,Decision Desk HQ,Trump,0.54
 2024-08-01,TheEconomist,Harris,0.43
 2024-08-02,TheEconomist,Harris,0.45
 2024-08-03,TheEconomist,Harris,0.45
@@ -226,6 +228,7 @@ Date,Model,Candidate,Probability
 2024-10-26,TheEconomist,Harris,0.46
 2024-10-27,TheEconomist,Harris,0.45
 2024-10-28,TheEconomist,Harris,0.45
+2024-10-29,TheEconomist,Harris,0.44
 2024-08-01,TheEconomist,Trump,0.57
 2024-08-02,TheEconomist,Trump,0.55
 2024-08-03,TheEconomist,Trump,0.55
@@ -315,6 +318,7 @@ Date,Model,Candidate,Probability
 2024-10-26,TheEconomist,Trump,0.54
 2024-10-27,TheEconomist,Trump,0.55
 2024-10-28,TheEconomist,Trump,0.54
+2024-10-29,TheEconomist,Trump,0.56
 2024-08-01,Betting,Harris,0.45
 2024-08-02,Betting,Harris,0.453
 2024-08-03,Betting,Harris,0.456
@@ -402,6 +406,9 @@ Date,Model,Candidate,Probability
 2024-10-24,Betting,Harris,0.39
 2024-10-25,Betting,Harris,0.38
 2024-10-26,Betting,Harris,0.378
+2024-10-27,Betting,Harris,0.377
+2024-10-28,Betting,Harris,0.368
+2024-10-29,Betting,Harris,0.36
 2024-08-01,Betting,Trump,0.51
 2024-08-02,Betting,Trump,0.513
 2024-08-03,Betting,Trump,0.518
@@ -489,6 +496,9 @@ Date,Model,Candidate,Probability
 2024-10-24,Betting,Trump,0.595
 2024-10-25,Betting,Trump,0.606
 2024-10-26,Betting,Trump,0.609
+2024-10-27,Betting,Trump,0.611
+2024-10-28,Betting,Trump,0.616
+2024-10-29,Betting,Trump,0.628
 2024-07-29,SilverBulletin,Harris,0.371724993
 2024-07-30,SilverBulletin,Harris,0.381375015
 2024-07-31,SilverBulletin,Harris,0.425325006

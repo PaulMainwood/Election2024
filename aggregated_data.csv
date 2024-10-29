@@ -580,6 +580,7 @@ Date,Model,Candidate,Probability
 2024-10-25,SilverBulletin,Harris,0.463
 2024-10-26,SilverBulletin,Harris,0.463
 2024-10-27,SilverBulletin,Harris,0.468
+2024-10-28,SilverBulletin,Harris,0.446
 2024-07-29,SilverBulletin,Trump,0.622574985
 2024-07-30,SilverBulletin,Trump,0.613449991
 2024-07-31,SilverBulletin,Trump,0.569050014
@@ -671,6 +672,7 @@ Date,Model,Candidate,Probability
 2024-10-25,SilverBulletin,Trump,0.534
 2024-10-26,SilverBulletin,Trump,0.534
 2024-10-27,SilverBulletin,Trump,0.529
+2024-10-28,SilverBulletin,Trump,0.55
 2024-07-26,FiveThirtyEight,Harris,0.4676
 2024-07-26,FiveThirtyEight,Trump,0.5324
 2024-07-27,FiveThirtyEight,Harris,0.4643
@@ -859,8 +861,8 @@ Date,Model,Candidate,Probability
 2024-10-26,FiveThirtyEight,Trump,0.5477000000000001
 2024-10-27,FiveThirtyEight,Harris,0.4474
 2024-10-27,FiveThirtyEight,Trump,0.5526
-2024-10-28,FiveThirtyEight,Harris,0.4563
-2024-10-28,FiveThirtyEight,Trump,0.5437000000000001
+2024-10-28,FiveThirtyEight,Harris,0.4558
+2024-10-28,FiveThirtyEight,Trump,0.5442
 2024-05-01,DataDiary,Harris,0.21599999999999925
 2024-05-01,DataDiary,Trump,0.7840000000000007
 2024-05-02,DataDiary,Harris,0.21639999999999987
